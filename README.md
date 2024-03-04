@@ -14,16 +14,18 @@ Before executing the program, make sure the following prerequisites are met:
 ## Setup
 1. **Install Python**: Download and install Python from [python.org](https://www.python.org/).
 2. **Install Required Libraries**: Use pip to install the necessary Python libraries:
-   ```bash
+   ```
    pip install opencv-contrib-python matplotlib numpy
+   ```
 3. Download the Dataset: Obtain the dataset containing images to be processed and place it in the folder named 'input-images'.
 
 ## Program Execution
-1. Clone or download the project repository from [[GitHub link](https://github.com/dalodeju/Image-Processing-Group-3.git)].
+1. Clone or download the project repository from this [[link](https://github.com/dalodeju/Image-Processing-Group-3.git)].
 2. Navigate to the project directory.
 3. Execute the Python program using the following command:
-   ```bash
+   ```
    python flowerSegmentation.py
+   ```
 4. The program will process each image in the 'input-images' folder, segment the flower regions, and save the binary segmentation results in the 'output' folder.
 5. Intermediate images generated during the processing pipeline will also be saved in the 'image-processing-pipeline' folder.
 
