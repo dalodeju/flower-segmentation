@@ -19,7 +19,7 @@ Before executing the program, make sure the following prerequisites are met:
 3. Download the Dataset: Obtain the dataset containing images to be processed and place it in the folder named 'input-images'.
 
 ## Program Execution
-1. Clone or download the project repository from [GitHub link].
+1. Clone or download the project repository from [[GitHub link](https://github.com/dalodeju/Image-Processing-Group-3.git)].
 2. Navigate to the project directory.
 3. Execute the Python program using the following command:
    ```bash
