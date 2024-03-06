@@ -1,20 +1,22 @@
 # Flower Segmentation
 
+## Student Details
+### Names & IDs:
+```
+Darrel Loh De Jun           20414780
+Samuel Joshua Anand         20497938
+Keosha Vadhnii              20415775
+Valencia Ann Raj Davidraj   20410418
+```
+### Group: 3
+
 
 ## Overview
 The aim of this project is to develop a Python program capable of segmenting various flower regions in images through an image processing pipeline. The requirements state that the program is to process one image at a time with minimal user input, and produce a binary image that marks the regions corresponding to the flower material. The solution should be as automated as posible and must be able to operate on all images without user intervention.
 
 
-## Prerequisites
-Before executing the program, make sure the following prerequisites are met:
-- Python is installed on the system.
-- Required Python libraries are installed:
-  - OpenCV (opencv-contrib-python)
-  - Matplotlib
-  - NumPy
-
-
-## Setup
+## Compilation Instructions
+### How to run
 1. **Install Python**: Download and install Python from [python.org](https://www.python.org/).
 2. **Install Required Libraries**: Use pip to install the necessary Python libraries:
    ```
